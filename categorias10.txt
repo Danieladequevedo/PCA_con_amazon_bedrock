@@ -1,0 +1,11 @@
+Categoría;Descripción
+Información;El cliente busca obtener información detallada sobre su deuda, incluyendo montos, fechas, cargos adicionales y cualquier otra información relevante relacionada con su situación de cobranza.
+Negociación;El cliente desea negociar los términos de pago, como montos, plazos, intereses o posibles quitas, con el objetivo de llegar a un acuerdo más favorable para su situación financiera.
+Reclamo;El cliente presenta un reclamo o disputa formal, argumentando que la deuda es errónea, los cargos son injustificados o el proceso de cobranza ha sido inadecuado o abusivo.
+Reestructuración;El cliente solicita un plan de pago estructurado, donde se establezcan cuotas fijas y fechas específicas para realizar los pagos, con el fin de saldar la deuda de manera organizada.
+Actualización;El cliente necesita actualizar su información personal, como dirección, números de contacto, situación laboral o fuentes de ingresos, con el objetivo de facilitar el proceso de cobranza.
+Amenaza;El cliente utiliza un lenguaje abusivo, amenazante o intimidante, incluyendo amenazas de acciones legales, con el fin de evitar o intimidar el proceso de cobranza.
+Documentación;El cliente solicita copias de documentos respaldatorios, como contratos, facturas, estados de cuenta o correspondencia previa, para respaldar o refutar la deuda en cuestión.
+Cierre;El cliente solicita el cierre definitivo de su cuenta o la finalización de un proceso de cobranza, ya sea por haber saldado la deuda o por otros motivos.
+Prórroga;El cliente solicita una prórroga o aplazamiento temporal del pago, debido a circunstancias financieras o personales específicas, con el fin de obtener más tiempo para cumplir con su obligación.
+Otros;Esta categoría abarca cualquier otro tipo de llamada que no encaje en las categorías anteriores, como consultas sobre políticas, procedimientos, quejas o situaciones particulares del cliente.
